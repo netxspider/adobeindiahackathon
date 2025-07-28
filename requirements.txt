@@ -1,0 +1,7 @@
+PyMuPDF==1.22.5
+torch==2.3.0  # CPU-only; no CUDA
+transformers==4.41.2
+scikit-learn==1.5.0
+sentence-transformers==3.0.1
+numpy==1.26.4
+pdfplumber==0.11.7

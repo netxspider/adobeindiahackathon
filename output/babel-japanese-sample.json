@@ -1,0 +1,105 @@
+{
+  "title": "1babel",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "第1章babel",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1.1japaneseパッケージ",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "japaneseパッケージは日本語による見出し語と日付を出力するためのマクロを定義しています。",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "図1.1:キャプションの例",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "•ここで英語(english)に変更します。(languageの値は0)",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "TextverarbeitungmiteinemRechnerkanninvielf ̈altigerWeiseerfolgen.EigenschaftenundLeis-",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "tungsf ̈ahigkeitsindhierbeiwenigervomjeweiligenRechnertype,sondernvielmehrvomverwendeten",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "Textverarbeitungsprogrammbestimmt.",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "ここは英語?—はい。",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "ここはドイツ語?いいえ。",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "ここは日本語?—はい。",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "\\adddialect\\l@japanese0",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "•ここでドイツ語()に変更します。(languageの値は32)",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "german",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "stungsfahigkeitsindhierbeiwenigervomjeweiligenRechnertype,sondernvielmehrvomverwende-",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "※ハイフネーションがドイツ語―旧正書法―に切り替わっている点に注目。なお,新正書法(ngerman)",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "ではLeis-tungs-f ̈a-hig-keitのように分綴します。",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "和暦は日付の表示をデフォルトの西暦「年月日」から和暦「令和年月日」に変更し",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "•\\20212143214",
+      "page": 1
+    },
+    {
+      "level": "H4",
+      "text": "ます。",
+      "page": 1
+    }
+  ]
+}
